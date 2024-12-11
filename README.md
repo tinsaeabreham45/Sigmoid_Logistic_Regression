@@ -10,3 +10,4 @@ This project demonstrates the implementation of a basic logistic regression mode
 # Output
 **Numerical Predictions: Displays the predicted probabilities for the training dataset.**
 **Plot: A scatter plot of training data (red) and the logistic regression prediction curve (blue).**
+![Output](https://github.com/user-attachments/assets/3474176e-c446-413c-8686-4fa3024da5aa)
